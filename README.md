@@ -1,66 +1,66 @@
 
-# NUMETHODS - Curso de Métodos Numéricos Aplicado com Python
+### NUMETHODS - Curso de Métodos Numéricos Aplicado com Python
 
 
-## INTRODUÇÃO E ESTUDOS SOBRE ERROS
-1.1 Conceitos básicos e Aritmética de Ponto Flutuante 
-1.2 Erros nas aproximações numéricas 
-1.3 Classificação de erros: absolutos, relativos, arredondamento 
-1.4 Erro nas funções de uma ou mais variáveis 
-1.5 Estudo sobre erros programando em Python
+**1. INTRODUÇÃO E ESTUDOS SOBRE ERROS** <br>
+1.1 Conceitos básicos e Aritmética de Ponto Flutuante <br>
+1.2 Erros nas aproximações numéricas <br>
+1.3 Classificação de erros: absolutos, relativos, arredondamento <br> 
+1.4 Erro nas funções de uma ou mais variáveis <br>
+1.5 Estudo sobre erros programando em Python <br>
 
-## SISTEMAS LINEARES 
-2.1 Introdução e conceitos fundamentais 
-2.2 Métodos de decomposição 
-2.3 Método da eliminação de Gauss 
-2.4 Método por inversão de matrizes. 
-2.5 Métodos iterativos 
-2.6 Convergência e erros 
-2.7 Sistemas lineares programando em Python
+**2. SISTEMAS LINEARES** <br>
+2.1 Introdução e conceitos fundamentais <br>
+2.2 Métodos de decomposição <br>
+2.3 Método da eliminação de Gauss <br>
+2.4 Método por inversão de matrizes <br> 
+2.5 Métodos iterativos <br>
+2.6 Convergência e erros <br>
+2.7 Sistemas lineares programando em Python <br>
 
-## ZEROS DE FUNÇÕES 
-3.1 Introdução e conceitos básicos 
-3.2 Localização de raízes 
-3.3 Método da bisseção e erros 
-3.4 Métodos iterativos, convergência e erros
-3.5 Método de Newton-Raphson 
-3.6 Método da secante 
-3.7 Zeros de funções programando em Python
+**3. ZEROS DE FUNÇÕES** <br> 
+3.1 Introdução e conceitos básicos <br> 
+3.2 Localização de raízes <br>
+3.3 Método da bisseção e erros <br>
+3.4 Métodos iterativos, convergência e erros <br>
+3.5 Método de Newton-Raphson <br>
+3.6 Método da secante <br>
+3.7 Zeros de funções programando em Python <br>
 
-## ZEROS DE POLINÔMIOS 
-4.1 Conceitos fundamentais 
-4.2 Teorema sobre o valor numérico de um polinômio 
-4.3 Teorema sobre o valor numérico da derivada de um polinômio 
-4.4 Delimitação de zeros reais e complexos 4.5 Métodos de Birge-Vieta e erros 
-4.6 Determinaçào de zeros de polinômios programando em Python
+**4. ZEROS DE POLINÔMIOS** <br>
+4.1 Conceitos fundamentais <br>
+4.2 Teorema sobre o valor numérico de um polinômio <br>
+4.3 Teorema sobre o valor numérico da derivada de um polinômio <br>
+4.4 Delimitação de zeros reais e complexos 4.5 Métodos de Birge-Vieta e erros <br>
+4.6 Determinaçào de zeros de polinômios programando em Python <br>
 
-## INTERPOLAÇÃO 
-5.1 Interpolação polinomial: conceitos fudamentais 
-5.2 Forma de Lagrange e erros 
-5.3 Estudo das diferenças finitas 
-5.3 Fórmula Newton com diferenças divididas 
-5.4 Interpolação polinomial programando em Python
+**5. INTERPOLAÇÃO** <br>
+5.1 Interpolação polinomial: conceitos fudamentais <br>
+5.2 Forma de Lagrange e erros <br>
+5.3 Estudo das diferenças finitas <br>
+5.3 Fórmula Newton com diferenças divididas <br> 
+5.4 Interpolação polinomial programando em Python <br>
 
-## APROXIMAÇÃO DE FUNÇÕES 
-6.1 Introdução e conceitos fundamentais 
-6.2 Método de mínimos quadrados 
-6.3 Ajuste linear nos parâmetros 
-6.4 Ajuste não linear e linearização 
-6.5 Ajuste de curvas programando em Python
+**6. APROXIMAÇÃO DE FUNÇÕES** <br> 
+6.1 Introdução e conceitos fundamentais <br>
+6.2 Método de mínimos quadrados <br>
+6.3 Ajuste linear nos parâmetros <br>
+6.4 Ajuste não linear e linearização <br>
+6.5 Ajuste de curvas programando em Python <br>
 
-## INTEGRAÇÃO NUMÉRICA 
-7.1 Introdução e conceitos fundamentais 
-7.2 Método de Newton-Cotes 
-7.3 Regra do trapézio 
-7.4 Regra de Simpson e erros 
-7.5 Integração numérica programando em Python
+**7. INTEGRAÇÃO NUMÉRICA <br>
+7.1 Introdução e conceitos fundamentais <br>
+7.2 Método de Newton-Cotes <br>
+7.3 Regra do trapézio <br>
+7.4 Regra de Simpson e erros <br>
+7.5 Integração numérica programando em Python <br>
 
-## SOLUÇÃO NUMÉRICA DE EQUAÇÕES DIFERENCIAIS ORDINÁRIAS E PROBLEMAS DE VALOR INICIAL 
-8.1 Introdução 
-8.2 Método de Euler 
-8.3 Métodos de série de Taylor 
-8.4 Métodos de Runge-Kutta 
-8.5 Erro de truncamento
+**8.  SOLUÇÃO NUMÉRICA DE EQUAÇÕES DIFERENCIAIS ORDINÁRIAS E PROBLEMAS DE VALOR INICIAL** <br>
+8.1 Introdução <br>
+8.2 Método de Euler <br> 
+8.3 Métodos de série de Taylor <br> 
+8.4 Métodos de Runge-Kutta <br>
+8.5 Erro de truncamento <br>
 
 
 

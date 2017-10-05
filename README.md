@@ -48,7 +48,7 @@
 6.4 Ajuste não linear e linearização <br>
 6.5 Ajuste de curvas programando em Python <br>
 
-**7. INTEGRAÇÃO NUMÉRICA <br>
+**7. INTEGRAÇÃO NUMÉRICA** <br>
 7.1 Introdução e conceitos fundamentais <br>
 7.2 Método de Newton-Cotes <br>
 7.3 Regra do trapézio <br>

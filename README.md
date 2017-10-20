@@ -3,7 +3,7 @@
 
 
 **1. INTRODUÇÃO E ESTUDOS SOBRE ERROS** <br>
-1.1 [Conceitos básicos e Aritmética de Ponto Flutuante](conceitos_basicos_e_aritmetica_de_ponto_flutuante.ipynb) <br>
+1.1 Conceitos básicos e Aritmética de Ponto Flutuante<br>
 1.2 Erros nas aproximações numéricas <br>
 1.3 Classificação de erros: absolutos, relativos, arredondamento <br> 
 1.4 Erro nas funções de uma ou mais variáveis <br>

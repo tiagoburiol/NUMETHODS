@@ -36,7 +36,7 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 4.4 Delimitação de zeros reais e complexos 4.5 Métodos de Birge-Vieta e erros <br>
 4.6 Determinaçào de zeros de polinômios programando em Python <br>
 
-**5. INTERPOLAÇÃO** <br>
+[**5. INTERPOLAÇÃO**](https://github.com/tiagoburiol/NUMETHODS/blob/master/5_INTERPOLACAO/5.0_interpolacao_introducao.ipynb) <br>
 5.1 Interpolação polinomial: conceitos fudamentais <br>
 5.2 Forma de Lagrange e erros <br>
 5.3 Estudo das diferenças finitas <br>

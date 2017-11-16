@@ -13,7 +13,7 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 
 **2. SISTEMAS LINEARES** <br>
 2.1 Introdução e conceitos fundamentais <br>
-2.2 Métodos de decomposição <br>
+2.2 [Métodos de decomposição](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.2_decomposicao_LU.ipynb) <br>
 2.3 Método da eliminação de Gauss <br>
 2.4 Método por inversão de matrizes <br> 
 2.5 Métodos iterativos <br>

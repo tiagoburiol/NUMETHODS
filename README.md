@@ -37,10 +37,11 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 4.6 Determinaçào de zeros de polinômios programando em Python <br>
 
 **5. INTERPOLAÇÃO** <br>
-[5.1 Interpolação polinomial: conceitos fudamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/5_INTERPOLACAO/5.0_interpolacao_introducao.ipynb)<br>
-5.2 Forma de Lagrange e erros <br>
+5.1 [Interpolação polinomial: conceitos fudamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/5_INTERPOLACAO/5.0_interpolacao_introducao.ipynb)
+(https://github.com/tiagoburiol/NUMETHODS/blob/master/5_INTERPOLACAO/5.1_interpolacao_polinomial.ipynb)<br>
+5.2 [Forma de Lagrange e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/5_INTERPOLACAO/5.2_formula_de_lagrange.ipynb)<br>
 5.3 Estudo das diferenças finitas <br>
-5.3 Fórmula Newton com diferenças divididas <br> 
+5.3 [Fórmula Newton com diferenças divididas](https://github.com/tiagoburiol/NUMETHODS/blob/master/5_INTERPOLACAO/5_3_formula_de_newton.ipynb) <br> 
 5.4 Interpolação polinomial programando em Python <br>
 
 **6. APROXIMAÇÃO DE FUNÇÕES** <br> 

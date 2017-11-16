@@ -1,4 +1,4 @@
 theme: jekyll-theme-merlot
 markdown: kramdown
-theme: jekyll-theme-basically-basic
-logo: /assets/icons/basically-basic-logo-light.svg
+theme: Merlot
+logo: https://github.com/tiagoburiol/NUMETHODS/raw/master/5_INTERPOLACAO/imagens/erro_na_interpolacao.png

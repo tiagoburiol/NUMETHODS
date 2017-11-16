@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
+theme: jekyll-theme-basically-basic
+logo: /assets/icons/basically-basic-logo-light.svg

@@ -23,7 +23,7 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 **3. ZEROS DE FUNÇÕES** <br> 
 3.1 [Introdução e conceitos básicos](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.1_Introducao_e_conceitos_basicos%20.ipynb) <br> 
 3.2 [Localização de raízes](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.2_localizacao_de_raizes.ipynb) <br>
-3.3 Método da bisseção e erros <br>
+3.3 [Método da bisseção e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.3_metodo_da_bissecao.ipynb) <br>
 3.4 Métodos iterativos, convergência e erros <br>
 3.5 Método de Newton-Raphson <br>
 3.6 Método da secante <br>

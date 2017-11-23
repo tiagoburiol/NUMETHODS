@@ -51,11 +51,11 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 6.5 Ajuste de curvas programando em Python <br>
 
 **7. INTEGRAÇÃO NUMÉRICA** <br>
-7.1 Introdução e conceitos fundamentais <br>
-7.2 Método de Newton-Cotes <br>
-7.3 Regra do trapézio <br>
-7.4 Regra de Simpson e erros <br>
-7.5 Integração numérica programando em Python <br>
+7.1 [Introdução e conceitos fundamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA/7.1_introducao_e_conceitos_fundamentais.ipynb) <br>
+7.2 [Método de Newton-Cotes](https://github.com/tiagoburiol/NUMETHODS/blob/master/7.2_INTEGRACAO_NUMERICA/7.2_metodo_de_newton-cotes.ipynb) <br>
+7.3 [Regra do trapézio](https://github.com/tiagoburiol/NUMETHODS/blob/master/7.3_INTEGRACAO_NUMERICA/7.3_regra_dos_trapezios.ipynb) <br>
+7.4 [Regra de Simpson e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/7.4_regras_de_simpson_e_erros.ipynb) <br>
+7.5 [Exercícios resolvidos em Python](https://github.com/tiagoburiol/NUMETHODS/blob/master/7.5_INTEGRACAO_NUMERICA/7.5_exercicios_resolvidos_em_python.ipynb) <br>
 
 **8.  SOLUÇÃO NUMÉRICA DE EQUAÇÕES DIFERENCIAIS ORDINÁRIAS E PROBLEMAS DE VALOR INICIAL** <br>
 8.1 Introdução <br>

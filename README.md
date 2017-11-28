@@ -15,8 +15,8 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 2.1 [Introdução e conceitos fundamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.1_introducao_e_conceitos_fundamentais.ipynb)<br>
 2.2 [Métodos de decomposição](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.2_decomposicao_LU.ipynb) <br>
 2.3 [Método da eliminação de Gauss](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.3_metodo_da_eliminacao_de_gauss.ipynb) <br>
-2.4 Método por inversão de matrizes <br> 
-2.5 Métodos iterativos <br>
+2.4 [Método por inversão de matrizes](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.4_metodos_por_inversao_de_matrizes.ipynb)<br> 
+2.5 [Métodos iterativos](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.5_metodos_iterativos.ipynb)<br>
 2.6 Convergência e erros <br>
 2.7 Sistemas lineares programando em Python <br>
 

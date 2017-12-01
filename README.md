@@ -48,7 +48,7 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 6.2 [Método de mínimos quadrados](https://github.com/tiagoburiol/NUMETHODS/blob/master/6_APROXIMACAO_DE_FUNCOES/6.minimos_quadrados.ipynb) <br>
 6.3 Ajuste linear nos parâmetros <br>
 6.4 Ajuste não linear e linearização <br>
-6.5 Ajuste de curvas programando em Python <br>
+6.5 [Exercícios resolvidos em Python](https://github.com/tiagoburiol/NUMETHODS/blob/master/6_APROXIMACAO_DE_FUNCOES/6.5.exercicios_resolvidos_em_python.ipynb)<br>
 
 **7. INTEGRAÇÃO NUMÉRICA** <br>
 7.1 [Introdução e conceitos fundamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA//7_INTEGRACAO_NUMERICA/7.1_introducao_e_conceitos_fundamentais.ipynb) <br>

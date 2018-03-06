@@ -15,8 +15,8 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 2.1 [Introdução e conceitos fundamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.1_introducao_e_conceitos_fundamentais.ipynb)<br>
 2.2 [Métodos de decomposição](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.2_decomposicao_LU.ipynb) <br>
 2.3 [Método da eliminação de Gauss](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.3_metodo_da_eliminacao_de_gauss.ipynb) <br>
-2.4 Método por inversão de matrizes <br> 
-2.5 Métodos iterativos <br>
+2.4 [Método por inversão de matrizes](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.4_metodos_por_inversao_de_matrizes.ipynb)<br> 
+2.5 [Métodos iterativos](https://github.com/tiagoburiol/NUMETHODS/blob/master/2_SISTEMAS_LINEARES/2.5_metodos_iterativos.ipynb)<br>
 2.6 Convergência e erros <br>
 2.7 Sistemas lineares programando em Python <br>
 
@@ -48,12 +48,12 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 6.2 [Método de mínimos quadrados](https://github.com/tiagoburiol/NUMETHODS/blob/master/6_APROXIMACAO_DE_FUNCOES/6.minimos_quadrados.ipynb) <br>
 6.3 Ajuste linear nos parâmetros <br>
 6.4 Ajuste não linear e linearização <br>
-6.5 Ajuste de curvas programando em Python <br>
+6.5 [Exercícios resolvidos em Python](https://github.com/tiagoburiol/NUMETHODS/blob/master/6_APROXIMACAO_DE_FUNCOES/6.5.exercicios_resolvidos_em_python.ipynb)<br>
 
 **7. INTEGRAÇÃO NUMÉRICA** <br>
 7.1 [Introdução e conceitos fundamentais](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA//7_INTEGRACAO_NUMERICA/7.1_introducao_e_conceitos_fundamentais.ipynb) <br>
 7.2 [Método de Newton-Cotes](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA//7.2_INTEGRACAO_NUMERICA/7.2_metodo_de_newton-cotes.ipynb) <br>
-7.3 [Regra do trapézio](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA//7.3_INTEGRACAO_NUMERICA/7.3_regra_dos_trapezios.ipynb) <br>
+7.3 [Regra do trapézio](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA/7.3_regra_dos_trapezios.ipynb) <br>
 7.4 [Regra de Simpson](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA/7.4_regras_de_simpson.ipynb) <br>
 7.5 [Exercícios resolvidos em Python](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA//7.5_INTEGRACAO_NUMERICA/7.5_exercicios_resolvidos_em_python.ipynb) <br>
 

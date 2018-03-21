@@ -59,7 +59,7 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 
 **8.  SOLUÇÃO NUMÉRICA DE EQUAÇÕES DIFERENCIAIS ORDINÁRIAS E PROBLEMAS DE VALOR INICIAL** <br>
 8.1 Introdução <br>
-8.2 Método de Euler <br> 
+8.2 [Método de Euler](https://github.com/tiagoburiol/NUMETHODS/blob/master/8_SOLUCAO_NUMERICA_DE_EDOs/8.2_metodo_de_euler.ipynb) <br> 
 8.3 Métodos de série de Taylor <br> 
 8.4 Métodos de Runge-Kutta <br>
 8.5 Erro de truncamento <br>

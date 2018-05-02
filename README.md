@@ -1,4 +1,3 @@
-
 ### NUMETHODS - Curso de Métodos Numéricos Aplicado com Python
 Conteúdo produzido pelo Prof. Tiago Martinuzzi Buriol e colaboradores para auxiliar nas disciplinas de Cálculo Numérico e Métodos Numéricos ministrados para os cursos de engenharia da Universidade Federal de Santa Maria (UFSM).
 
@@ -24,8 +23,8 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 3.1 [Introdução e conceitos básicos](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.1_Introducao_e_conceitos_basicos%20.ipynb) <br> 
 3.2 [Localização de raízes](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.2_localizacao_de_raizes.ipynb) <br>
 3.3 [Método da bisseção e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.3_metodo_da_bissecao.ipynb) <br>
-3.4 Métodos iterativos, convergência e erros <br>
-3.5 Método de Newton-Raphson <br>
+3.4 [Métodos iterativos, convergência e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.4_metodo_das_aproximacoes_sucessivas.ipynb)<br>
+3.5 [Método de Newton-Raphson](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.5_metodo_de_newton_raphson.ipynb)<br>
 3.6 Método da secante <br>
 3.7 Zeros de funções programando em Python <br>
 

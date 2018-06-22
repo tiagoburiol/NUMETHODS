@@ -43,7 +43,8 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 5.4 Interpolação polinomial programando em Python <br>
 
 **6. APROXIMAÇÃO DE FUNÇÕES** <br> 
-6.1 Introdução e conceitos fundamentais <br>
+6.1 [Introdução e conceitos fundamentais]
+(https://github.com/tiagoburiol/NUMETHODS/blob/master/6_APROXIMACAO_DE_FUNCOES/6.1_introducao_e_conceitos_fundamentais.ipynb<br>)
 6.2 [Método de mínimos quadrados](https://github.com/tiagoburiol/NUMETHODS/blob/master/6_APROXIMACAO_DE_FUNCOES/6.minimos_quadrados.ipynb) <br>
 6.3 Ajuste linear nos parâmetros <br>
 6.4 Ajuste não linear e linearização <br>

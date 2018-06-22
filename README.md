@@ -25,8 +25,8 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 3.3 [Método da bisseção e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.3_metodo_da_bissecao.ipynb) <br>
 3.4 [Métodos iterativos, convergência e erros](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.4_metodo_das_aproximacoes_sucessivas.ipynb)<br>
 3.5 [Método de Newton-Raphson](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.5_metodo_de_newton_raphson.ipynb)<br>
-3.6 [Método da secante] (https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.6_metodo_da_secante.ipynb)<br>
-3.7 [Estudo de casos] (https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.7_estudo_de_casos.ipynb)<br>
+3.6 [Método da secante](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.6_metodo_da_secante.ipynb)<br>
+3.7 [Estudo de casos](https://github.com/tiagoburiol/NUMETHODS/blob/master/3_ZEROS_DE_FUNCOES/3.7_estudo_de_casos.ipynb)<br>
 
 **4. ZEROS DE POLINÔMIOS** <br>
 4.1 Conceitos fundamentais <br>

@@ -4,7 +4,7 @@ Conteúdo produzido pelo Prof. Tiago Martinuzzi Buriol e colaboradores para auxi
 O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), scripts [Python](python.org) e páginas [HTML](https://www.w3.org/html/) contendo o material para acompanhamento do curso.   
 
 **1. INTRODUÇÃO E ESTUDOS SOBRE ERROS** <br>
-1.1 [Conceitos básicos e Aritmética de Ponto Flutuante](https://github.com/tiagoburiol/NUMETHODS/raw/master/1_INTRODUCAO_ERROS/1.1_conceitos_basicos_e_aritmetica_de_ponto_flutuante.ipynb)<br>
+1.1 [Conceitos básicos e Aritmética de Ponto Flutuante](https://github.com/tiagoburiol/NUMETHODS/blob/master/1_INTRODUCAO_ERROS/1.1_conceitos_basicos_e_aritmetica_de_ponto_flutuante.ipynb)<br>
 1.2 [Erros nas aproximações numéricas](https://github.com/tiagoburiol/NUMETHODS/blob/master/1_INTRODUCAO_ERROS/1.2_erros_nas_aproximacoes_numericas.ipynb)<br>
 1.3 [Erros absolutos e relativos](https://github.com/tiagoburiol/NUMETHODS/blob/master/1_INTRODUCAO_ERROS/1.3_erros_absolutos_e_relativos.ipynb)<br> 
 1.4 [Exemplos aplicados](https://github.com/tiagoburiol/NUMETHODS/blob/master/1_INTRODUCAO_ERROS/1.4_exemplos_aplicados.ipynb) <br>

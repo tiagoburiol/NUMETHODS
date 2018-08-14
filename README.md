@@ -63,5 +63,29 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 8.4 Métodos de Runge-Kutta <br>
 8.5 Erro de truncamento <br>
 
+**Referências Bibliográficas**
+
+ARENALES, S. DAREZZO, A. Cálculo Numérico: aprendizagem com o apoio de software. São Paulo: Contexto, 2ª edição, 2015. 
+
+BARROSO, L. C. et al. Cálculo Numérico com Aplicações. São Paulo: Editora Harbra,2ª edição, 1987.
+
+BASSANEZI, R.C. Ensino-Aprendizagem com Modelagem Matemática. São Paulo: Editora Contexto, 2014.
+
+BURDEN, R.L., FAIRES, J.D. Análise Numérica. São Paulo: Cengage Learning, 2008.
+
+CHAPRA, Steven C.; CANALEm, Raymond P. Métodos Numéricos para Engenharia, Editora McGraw-Hill, 7ª Edição, 2016.
+
+FRANCO, N. B. Cálculo Numérico. São Paulo: Pearson Prentice Hall, 2006. 
+
+HUMES, A. F. et al. Noções de cálculo numérico. São Paulo: McGraw-Hill, 1984.
+
+KIUSALAAS, Jaan. Numerical Methods in Engineering with Python 3, Cambridge University Press, 3rd Edition, 2013.
+
+RUGGIERO, M.A.G. &amp; LOPES, V.L. Cálculo numérico: aspectos teóricos e computacionais. São Paulo: Makron Books, 2ª edição, 1997. 
+
+SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico. São Paulo: Prentice Hall, 2003.
+
+(Vários autores) Cálculo Numérico - Um Livro Colaborativo. UFRGS - IME. https://www.ufrgs.br/numerico/livro-py/main.html
+
 
 

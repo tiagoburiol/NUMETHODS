@@ -57,10 +57,10 @@ O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), 
 7.5 [Exercícios resolvidos em Python](https://github.com/tiagoburiol/NUMETHODS/blob/master/7_INTEGRACAO_NUMERICA/7.5_exercicios_resolvidos_em_python.ipynb) <br>
 
 **8.  SOLUÇÃO NUMÉRICA DE EQUAÇÕES DIFERENCIAIS ORDINÁRIAS E PROBLEMAS DE VALOR INICIAL** <br>
-8.1 Introdução <br>
+8.1 [Introdução](https://github.com/tiagoburiol/NUMETHODS/blob/master/8_SOLUCAO_NUMERICA_DE_EDOs/8.1_introducao.ipynb) <br>
 8.2 [Método de Euler](https://github.com/tiagoburiol/NUMETHODS/blob/master/8_SOLUCAO_NUMERICA_DE_EDOs/8.2_metodo_de_euler.ipynb) <br> 
-8.3 Métodos de série de Taylor <br> 
-8.4 Métodos de Runge-Kutta <br>
+8.3 [Métodos de série de Taylor](https://github.com/tiagoburiol/NUMETHODS/blob/master/8_SOLUCAO_NUMERICA_DE_EDOs/8.3_metodos_de_serie_de_taylor.ipynb) <br> 
+8.4 [Métodos de Runge-Kutta](https://github.com/tiagoburiol/NUMETHODS/blob/master/8_SOLUCAO_NUMERICA_DE_EDOs/8.4_metodos_de_runge_kutta.ipynb) <br>
 8.5 Erro de truncamento <br>
 
 **Referências Bibliográficas**

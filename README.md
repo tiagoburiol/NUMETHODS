@@ -87,5 +87,8 @@ SPERANDIO, D., MENDES, J. T., SILVA, L. H. M. Cálculo Numérico. São Paulo: Pr
 
 (Vários autores) Cálculo Numérico - Um Livro Colaborativo. UFRGS - IME. https://www.ufrgs.br/numerico/livro-py/main.html
 
+TOBIN A. DRISCOLL and RICHARD J. BRAUN. Fundamentals of Numerical Computation. Society of Applied and Industrial Mathematics, 2017. https://tobydriscoll.net/book/fnc/ e https://tobydriscoll.net/fnc-julia/frontmatter.html
+
+
 
 

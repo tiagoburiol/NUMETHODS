@@ -1,9 +1,12 @@
 ### NUMETHODS - Curso de Métodos Numéricos Aplicado com Python
-Conteúdo produzido pelo Prof. Tiago Martinuzzi Buriol e colaboradores para auxiliar nas disciplinas de Cálculo Numérico e Métodos Numéricos ministrados para os cursos de engenharia da Universidade Federal de Santa Maria (UFSM).
+Conteúdo produzido pelo Prof. Tiago Martinuzzi Buriol para auxiliar nas disciplinas de Cálculo Numérico e Métodos Numéricos.
+O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), scripts [Python](python.org) e páginas [HTML](https://www.w3.org/html/) contendo o material para acompanhamento do curso.   
+
+
 Se gostou do conteúdo e é útil para você, você pode agradecer me pagando um espresso ;)
+
 <img title="p i x" src="imagens/da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="200">
 
-O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), scripts [Python](python.org) e páginas [HTML](https://www.w3.org/html/) contendo o material para acompanhamento do curso.   
 
 **1. INTRODUÇÃO E ESTUDOS SOBRE ERROS** <br>
 1.1 [Conceitos básicos e Aritmética de Ponto Flutuante](https://github.com/tiagoburiol/NUMETHODS/blob/master/1_INTRODUCAO_ERROS/1.1_conceitos_basicos_e_aritmetica_de_ponto_flutuante.ipynb)<br>

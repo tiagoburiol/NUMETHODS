@@ -3,7 +3,7 @@ Conteúdo produzido pelo Prof. Tiago Martinuzzi Buriol para auxiliar nas discipl
 O material consiste em um conjunto de [Jupyter Notebooks](http://jupyter.org/), scripts [Python](python.org) e páginas [HTML](https://www.w3.org/html/) contendo o material para acompanhamento do curso.   
 
 
-Se gostou do conteúdo e é útil para você, você pode contribuir com o projeto pagando um café espresso ;)
+Se gostou do conteúdo e é útil para você, você pode contribuir com o projeto pagando um expresso ;)
 
 <img title="p i x" src="imagens/da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="180">
 
